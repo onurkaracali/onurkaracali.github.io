@@ -35,8 +35,14 @@ html, body {
 .hi-wrap h1 {
     font-size: 172pt;
 }
+
 .heading-name-of-me h1 {
     font-size: 64pt;
+}
+
+.heading-name-of-me h1 {
+    font-size: 44px;
+    
 }
 
 .heading-name-of-me h4 {
