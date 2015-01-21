@@ -11,10 +11,10 @@ html, body {
 .page-wrap {
     height: 100%;
     min-height: 100%;
-    position: relative;
+    position: fixed;
     width: 100%;
     background-color: #000;
-    background-image: url("http://makegif.com/ghVU.gif");
+    background-image: url("http://lh4.ggpht.com/_zLwHwqx7gy4/S0zGFDof6bI/AAAAAAAAEyQ/6vyou0ItYOw/catgifpage3.gif");
     background-repeat: no-repeat;
     background-size: cover;
     color: rgb(255, 215, 0);
