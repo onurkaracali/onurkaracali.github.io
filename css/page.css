@@ -14,21 +14,29 @@ html, body {
     position: relative;
     width: 100%;
     background-color: #000;
-    color: #00a907;
-    font-family: "Courier New", Courier, monospace;
+    background-image: url("http://makegif.com/ghVU.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(255, 215, 0);
+    font-size: 14pt;
+    font-family:"Helvetica Neue Light", "HelveticaNeue-Light", "Helvetica Neue", Calibri, Helvetica, Arial, sans-serif;
+    overflow: hidden;
 }
 
 .page-center {
-    width: 66%;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.4);
     margin: 0 auto;
     height: 100%;
+    padding-left: 25px;
+    padding-top: 15px;
 
 }
 .hi-wrap h1 {
     font-size: 172pt;
 }
 .heading-name-of-me h1 {
-    font-size: 24pt;
+    font-size: 64pt;
 }
 
 .heading-name-of-me h4 {
@@ -36,4 +44,10 @@ html, body {
 }
 .contact-info-area {
     padding-top: 30px;
+    padding-left: 50px;
+}
+.contact-table {
+    width: 33%;
+    margin: 0 auto;
+    text-align: left;
 }
